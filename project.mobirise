@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "I cookie di questo sito sono necessari per il suo funzionamento. Ulteriori dettagli in <a href=\"pdacireale_privacy_cookie.html\"\r\n'>Privacy & Cookie policy</a>."
+    "cookiesAlert": "I cookie di questo sito sono necessari per il suo funzionamento. Ulteriori dettagli in <a href=\"pdacireale_privacy_cookie.html\"\r\n>Privacy & Cookie policy</a>."
   },
   "pages": {
     "index.html": {
