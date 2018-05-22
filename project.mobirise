@@ -24,8 +24,8 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#f4aebf"
@@ -36,13 +36,13 @@
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "gdpr": "Continuando aderisci a <a href='pdacireale_privacy_cookie.html'>Termini di Servizio, Privacy & Cookie Policy</a>.",
+    "gdpr": "Continuando aderisci a <a href='pdacireale_privacy_cookie.html'>Termini di Servizio, Privacy e Cookie Policy</a>.",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "I cookie di questo sito sono necessari per il suo funzionamento. Ulteriori dettagli in <a href=\"pdacireale_privacy_cookie.html\">\r\nPrivacy & Cookie policy</a>."
+    "cookiesAlert": "I cookie di questo sito sono necessari per il suo funzionamento. Ulteriori dettagli in <a href=\"pdacireale_privacy_cookie.html\">\r\nPrivacy e Cookie policy</a>."
   },
   "pages": {
     "index.html": {
